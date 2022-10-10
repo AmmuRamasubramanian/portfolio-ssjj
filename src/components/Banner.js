@@ -46,7 +46,7 @@ export const Banner=()=>{
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <span className="tagline">Welcome to my Portfolio</span>
-                        <h1>{`Hi! I'm Sivagnana Sowndarya,   `}<span className="wrap">{text}</span></h1>
+                        <h1>{`Hi! I'm Sivagnana Sowndarya,   `}<br/><span className="wrap">{text}</span></h1>
                         <p>Software Engineer good at algorithms and Data Structures.Proficient in Python,HTML,CSS and Javascript.Capable of developing responsive websites.</p>
                         <a href="https://www.linkedin.com/in/sivagnanasowndaryar/" target="_blank"
 									rel="noreferrer">
